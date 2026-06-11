@@ -1,0 +1,13 @@
+root 1
+L 2
+R 3
+LL 4
+LR 5
+END
+
+root 1
+L 2
+R 3
+LL 4
+LR 5
+END
